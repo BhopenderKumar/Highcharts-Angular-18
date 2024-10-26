@@ -9,7 +9,7 @@ Setup
 
 Clone the repository:
 
-git clone https://github.com/your-username/Angular-Highcharts-Dashboard-Demo.git
+git clone https://github.com/BhopenderKumar/Highcharts-Angular-18.git
 Navigate to the project directory:
 
 
