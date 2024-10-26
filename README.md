@@ -7,6 +7,9 @@ Responsive Design: Adaptive layout that looks great on both desktop and mobile.
 Modern UI: Clean, card-based interface with smooth focus effects and a professional look.
 Setup
 
+![image](https://github.com/user-attachments/assets/2071fef5-9bf1-4c55-a99f-c9880fc27a18)
+
+
 Clone the repository:
 
 git clone https://github.com/BhopenderKumar/Highcharts-Angular-18.git
