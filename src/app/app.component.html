@@ -1,0 +1,15 @@
+<div class="dashboard-container">
+  <div class="dashboard-card">
+    <h2 class="dashboard-title"></h2>
+    <highcharts-chart
+      [Highcharts]="Highcharts"
+      [options]="chartOptions"
+      style="width: 100%; height: 400px; display: block;">
+    </highcharts-chart>
+
+    <div class="input-container">
+      <label for="speed">Enter Speed & See Chart in Action</label>
+      <input type="number" id="speed" [(ngModel)]="speed" (input)="updateSpeed()" placeholder="Enter speed" min="0" max="200" />
+    </div>
+  </div>
+</div>
