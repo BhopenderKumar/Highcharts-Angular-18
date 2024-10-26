@@ -10,9 +10,8 @@ Setup
 Clone the repository:
 
 git clone https://github.com/BhopenderKumar/Highcharts-Angular-18.git
+
 Navigate to the project directory:
-
-
 cd Highcharts-Angular-18
 Install dependencies:
 
